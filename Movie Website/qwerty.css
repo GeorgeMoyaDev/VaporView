@@ -1,0 +1,14 @@
+@charset "UTF-8"
+body{
+	background-color: #000000;
+}
+
+#qwert{
+	color: #000000;
+	background-color: #000000;
+	background: #000000;
+}
+#mostview{
+	margin-top: 5px;
+	float: right;
+}
